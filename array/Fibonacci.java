@@ -6,7 +6,6 @@
  * f(2); f(1)和f(2)是已知的； f(4) = f(2) + f(3);
  * f(2)和f(3)是已知的，可以将f(2)看作原来的f(1)，将f(3)看作原来的f(2)； ... 逐步累加即可，时间复杂度O(n);
  *
- * User: Daniel Date: 13-12-17 Update1: 16-08-29 Time: 上午8:03
  */
 public class Fibonacci {
 
